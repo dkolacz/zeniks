@@ -18,7 +18,6 @@ httpx==0.28.1
 hyperframe==6.1.0
 idna==3.10
 packaging==25.0
-postgrest==2.19.0
 pyairbnb @ git+https://github.com/johnbalvin/pyairbnb.git@056c771130916c6a1baddcb256379511d2707737
 pycparser==2.23
 pydantic==2.11.9
@@ -32,9 +31,6 @@ soupsieve==2.8
 starlette==0.48.0
 storage3==2.19.0
 StrEnum==0.4.15
-supabase==2.19.0
-supabase-auth==2.19.0
-supabase-functions==2.19.0
 typing-inspection==0.4.1
 typing_extensions==4.15.0
 urllib3==2.5.0
