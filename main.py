@@ -1,5 +1,6 @@
 from fastapi import FastAPI
-from scraper.app.main import app as scraper_app
+#from scraper.app.main import app as scraper_app
+from app.main import app as scraper_app
 from agents.server import app as agent_app
 
 app = FastAPI(title="Zeniks")
